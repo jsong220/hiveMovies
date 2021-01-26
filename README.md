@@ -14,7 +14,7 @@ Scala-Hadoop application to answer rating questions within a movie dataset using
 - Hive (https://github.com/big-data-europe/docker-hive)
 - Git + GitHub
 
-## Feautures
+## Features
 - MapReduce (Med. - did not implement)
 - Hive (Hard - med)
 - Interacting command line (Easy - easy)
