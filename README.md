@@ -1,4 +1,4 @@
-# Project 1
+# Movie Rating Analysis with Hive 
 Scala-Hadoop application to answer rating questions within a movie dataset using Hive.
 
 ## Questions
@@ -22,4 +22,11 @@ Scala-Hadoop application to answer rating questions within a movie dataset using
 ## Dataset Used
 - [Movielens Stats](http://files.grouplens.org/datasets/movielens/ml-latest-README.html)
 
-  
+## Project Description
+## Technologies Used (with versions)
+## Features (With Todos)
+## Getting Started
+## Usage
+## Contributors
+## License
+example-https://github.com/PorkodiVenkatesh/PROJECT-NAME
