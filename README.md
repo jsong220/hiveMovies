@@ -14,10 +14,11 @@ Scala-Hadoop application to answer rating questions within a movie dataset using
 1. Top 10 most rated movies?
 2. Top 10 highest average ratings with at least 100 ratings
 3. Top 10 By Decades With at least 100 ratings
-
-- MapReduce (Med. - did not implement)
 - Hive (Hard - med)
 - Interacting command line (Easy - easy)
+
+- To-do:
+- MapReduce (Med. - did not implement)
 ## Getting Started
 - git clone (https://github.com/big-data-europe/docker-hive)
 - git clone this repository 
