@@ -1,7 +1,7 @@
 # Movie Rating Analysis with Hive 
 ## Project Description
 Scala-Hadoop application to answer rating questions within a movie dataset using Hive.
-## Technologies Used (with versions)
+## Technologies Used 
 - Hadoop 2.7.4 with YARN
 - HDFS 2.7.4
 - Scala 2.13.3
